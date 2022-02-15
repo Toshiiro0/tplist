@@ -60,6 +60,6 @@ Tab2:Keybind("Toggle",Enum.KeyCode.Semicolon,function()
     Library:Toggle()
 end)
 
-local Tab2 = Window:Tab("Credits",false)
+local Tab3 = Window:Tab("Credits",false)
 
 Tab3:Label("rice#1943")
